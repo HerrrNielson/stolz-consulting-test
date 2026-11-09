@@ -1,0 +1,11 @@
+# Lokale Tool-Einstellungen
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Betriebssystem
+Thumbs.db
+Desktop.ini
+.DS_Store
